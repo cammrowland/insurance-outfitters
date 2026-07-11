@@ -1,0 +1,8 @@
+# Blueprint inputs — never deploy these
+/BRIEF.md
+/DESIGN.md
+/BUILD-PROMPT.md
+/BUILD-PROMPT_POLISH-PASS.md
+/LOGO-PROMPT.md
+/download-images.sh
+.DS_Store
